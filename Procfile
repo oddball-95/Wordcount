@@ -1,1 +1,1 @@
-web: gunicorn secondprj.wsg --log-file -
+web: gunicorn secondprj.wsgi --log-file -
