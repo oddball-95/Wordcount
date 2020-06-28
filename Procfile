@@ -1,0 +1,1 @@
+web: gunicorn secondprj.wsg --log-file -
