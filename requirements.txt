@@ -4,6 +4,6 @@ psycopg2-binary==2.8.5
 whitenoise==5.1.0
 asjiref==3.2.7
 Django==3.0.7
-Pillow==7.1.2
+Pillow==8.3.2
 pytz==2020.1
 sqlparse==0.3.1
